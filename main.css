@@ -1,0 +1,92 @@
+.one{
+    background-image: url('https://res.cloudinary.com/simplotel/image/upload/w_5000,h_1810/x_891,y_0,w_3218,h_1810,r_0,c_crop,q_60,fl_progressive/w_1366,c_fit,f_auto/kadkani-riverside-resort-coorg/Clubhouse_yhudrc');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.spec{
+    text-align: center;
+    font-size: 7em;
+    font-family: 'Kalam', cursive;
+    font-weight: bold;
+    margin-top: 120px;
+    color:gold;
+
+}
+p{
+    font-family: 'Kalam', cursive;
+
+}
+
+ul>li{
+    display:inline-block;
+  }
+
+a{
+    text-decoration:none;
+    padding:5px;
+    color:whitesmoke;
+  }
+.det{
+    text-align: center;
+    font-family: 'Kalam', cursive;
+}
+#det{
+    text-align: center;
+    font-family: 'Kalam', cursive;
+
+}
+  
+  
+nav{
+    text-align:right;
+    font-size:30px;
+    color: whitesmoke;
+  }
+
+.four{
+   
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;  
+  
+  padding:5px; 
+  
+  
+}
+.three{
+   
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;  
+    
+    padding:5px; 
+    
+    
+  }
+
+.two{
+   
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;  
+    
+    padding:5px; 
+    
+    
+  }
+   
+h2{
+    text-align:center;
+}
+
+.card{
+    width: 500px;
+    padding: 40px;
+    margin: 40px;
+}
+#red{
+    background-image: url('https://s.abcnews.com/images/Lifestyle/HT-four-seasons-maui-jpo-170615_16x9_992.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+ 
