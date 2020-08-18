@@ -12,20 +12,7 @@
     color:gold;
 
 }
-p{
-    font-family: 'Kalam', cursive;
 
-}
-
-ul>li{
-    display:inline-block;
-  }
-
-a{
-    text-decoration:none;
-    padding:5px;
-    color:whitesmoke;
-  }
 .det{
     text-align: center;
     font-family: 'Kalam', cursive;
@@ -39,8 +26,14 @@ a{
   
 nav{
     text-align:right;
-    font-size:30px;
-    color: whitesmoke;
+    font-size:25px;
+    padding: 30px;
+    color:black;
+    
+  }
+  a{
+    
+    padding: 20px;
   }
 
 .four{
