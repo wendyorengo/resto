@@ -8,34 +8,46 @@
     font-size: 7em;
     font-family: 'Kalam', cursive;
     font-weight: bold;
-    margin-top: 120px;
+    padding-top: 100px;
+  
+    
     color:gold;
 
 }
 
-.det{
+.det h1 a{
     text-align: center;
     font-family: 'Kalam', cursive;
+    color: black;
 }
 #det{
     text-align: center;
     font-family: 'Kalam', cursive;
 
 }
-  
-  
-nav{
-    text-align:right;
-    font-size:25px;
-    padding: 30px;
-    color:black;
-    
-  }
-  a{
-    
-    padding: 20px;
-  }
+nav ul a{
+  color:white;
+}
+a:hover {
+  text-decoration: underline;
+  color:white;
+}
 
+ul{
+  float: right;
+  padding-top:50px;
+  color: white;
+  font-size: 20px;
+  text-decoration: none;
+  
+}
+a{
+ 
+  padding: 20px;
+  text-decoration: none;
+  
+ 
+}
 .four{
    
   display: flex;
